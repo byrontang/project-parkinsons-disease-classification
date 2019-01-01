@@ -1,1 +1,2 @@
 # project-parkinsons-disease-classification
+This notebook uses the dataset from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification) and classification models to predict whether a patient has Parkinson's Disease, with a focus on modele improvement on Logistic Regression.
